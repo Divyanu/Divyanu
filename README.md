@@ -7,6 +7,9 @@
 - 💞️ I’m looking for exciting work in the field of Computer Science.
 - 📫 How to reach me?? ==> bahetisuman@gmail.com
 
+### MY LINKDIN
+- <img src="https://img.icons8.com/material-outlined/50/000000/linkedin--v2.png">
+
 
 <img src  = "https://github-readme-stats.vercel.app/api?username=Divyanu&&show_icons=true&title_color=EEC935&icon_color=bb2acf&text_color=08E78B&bg_color=151515">
 
