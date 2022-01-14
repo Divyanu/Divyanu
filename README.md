@@ -8,7 +8,7 @@
 - 📫 How to reach me?? ==> bahetisuman@gmail.com
 
 ### MY LINKEDIN
-- <a href="https://www.linkedin.com/in/divyanu-baheti-23a5a0185/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+- <a href="https://www.linkedin.com/in/divyanu-baheti-23a5a0185/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 
 <img src  = "https://github-readme-stats.vercel.app/api?username=Divyanu&&show_icons=true&title_color=EEC935&icon_color=bb2acf&text_color=08E78B&bg_color=151515">
