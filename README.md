@@ -7,7 +7,7 @@
 - 💞️ I’m looking for exciting work in the field of Computer Science.
 - 📫 How to reach me?? ==> bahetisuman@gmail.com
 
-### MY LINKEDIN
+### MY LINKEDIN <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="40" height="40">
 - <a href="https://www.linkedin.com/in/divyanu-baheti-23a5a0185/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 
